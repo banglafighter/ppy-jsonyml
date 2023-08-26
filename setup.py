@@ -9,7 +9,7 @@ env = os.environ.get('source')
 
 
 def get_dependencies():
-    dependency = []
+    dependency = ["ppy-common", "ppy-file-text", "pyyaml"]
 
     if env and env == "dev":
         return dependency

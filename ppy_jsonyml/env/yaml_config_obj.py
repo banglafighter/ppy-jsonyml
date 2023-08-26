@@ -1,0 +1,2 @@
+class YAMLConfigObj(object):
+    pass
