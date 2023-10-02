@@ -9,12 +9,12 @@ env = os.environ.get('source')
 
 
 def get_dependencies():
-    dependency = ["ppy-common", "ppy-file-text", "pyyaml"]
+    dependency = ["PyYAML==6.0.1"]
 
     if env and env == "dev":
         return dependency
 
-    return dependency + []
+    return dependency + ["ppy-common", "ppy-file-text"]
 
 
 setup(
