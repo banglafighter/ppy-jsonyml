@@ -19,7 +19,7 @@ def get_dependencies():
 
 setup(
     name='ppy-jsonyml',
-    version='1.0.0',
+    version='0.0.1',
     url='https://github.com/problemfighter/ppy-jsonyml',
     license='Apache 2.0',
     author='Problem Fighter',
