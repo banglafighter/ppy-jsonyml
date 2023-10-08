@@ -11,7 +11,7 @@ env = os.environ.get('source')
 def get_dependencies():
     dependency = ["PyYAML==6.0.1"]
 
-    if env and env == "dev":
+    if env and env == "code":
         return dependency
 
     return dependency + ["ppy-common", "ppy-file-text"]
