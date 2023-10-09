@@ -35,6 +35,8 @@ class YAMLConfigLoader:
     def _load_yaml(self):
         env_file = self._get_env_file(self.env_file)
         try:
+            if not env_file:
+                return None
             yaml_content = TextFileMan.get_text_from_file(env_file, exception_message="YAML file not found!")
             return yaml.full_load(yaml_content)
         except Exception as e:
