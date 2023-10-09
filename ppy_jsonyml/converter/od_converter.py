@@ -1,5 +1,4 @@
 from typing import List, Dict
-
 from ppy_jsonyml.converter.od_base import ODBase, ODAttributeDetails
 from ppy_jsonyml.converter.od_util import ODUtil
 
