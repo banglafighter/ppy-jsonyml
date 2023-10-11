@@ -9,17 +9,17 @@ env = os.environ.get('source')
 
 
 def get_dependencies():
-    dependency = []
+    dependency = ["PyYAML==6.0.1"]
 
-    if env and env == "dev":
+    if env and env == "code":
         return dependency
 
-    return dependency + []
+    return dependency + ["ppy-common", "ppy-file-text"]
 
 
 setup(
     name='ppy-jsonyml',
-    version='1.0.0',
+    version='0.0.2',
     url='https://github.com/problemfighter/ppy-jsonyml',
     license='Apache 2.0',
     author='Problem Fighter',
