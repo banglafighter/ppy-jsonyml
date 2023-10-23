@@ -8,7 +8,7 @@
 ## Documentation
 Install and update using [pip](https://pip.pypa.io/en/stable/getting-started/):
 ```bash
-pip install -U PPyJsonYML
+pip install -U ppy-jsonyml
 ```
 
 **Please find [the Documentation]() with example from [hmtmcse.com]()**
@@ -16,7 +16,7 @@ pip install -U PPyJsonYML
 
 <br/><br/><br/>
 ## Donate
-[Problem Fighter](https://www.problemfighter.com/) develops and supports PPyJsonYML and the libraries it uses. In order to grow
+[Bangla Fighter](https://www.banglafighter.com/) develops and supports PPyJsonYML and the libraries it uses. In order to grow
 the community of contributors and users, and allow the maintainers to devote more time to the projects.
 
 
@@ -27,9 +27,9 @@ For guidance on setting up a development environment and how to make a contribut
 
 <br/><br/><br/>
 ## Links
-* **Changes :** [https://opensource.problemfighter.org/pweb/ppy-jsonyml](https://opensource.problemfighter.org/xxxx/ppy-jsonyml)
+* **Changes :** [https://opensource.banglafighter.org/pweb/ppy-jsonyml](https://opensource.banglafighter.org/pweb/ppy-jsonyml)
 * **PyPI Releases :** [https://pypi.org/project/ppy-jsonyml](https://pypi.org/project/ppy-jsonyml)
-* **Source Code :** [https://github.com/problemfighter/ppy-jsonyml](https://github.com/problemfighter/ppy-jsonyml)
-* **Issue Tracker :** [https://github.com/problemfighter/ppy-jsonyml/issues](https://github.com/problemfighter/ppy-jsonyml/issues)
-* **Website :** [https://www.problemfighter.com/open-source](https://www.problemfighter.com/open-source)
+* **Source Code :** [https://github.com/banglafighter/ppy-jsonyml](https://github.com/banglafighter/ppy-jsonyml)
+* **Issue Tracker :** [https://github.com/banglafighter/ppy-jsonyml/issues](https://github.com/banglafighter/ppy-jsonyml/issues)
+* **Website :** [https://www.banglafighter.com/open-source](https://www.banglafighter.com/open-source)
 

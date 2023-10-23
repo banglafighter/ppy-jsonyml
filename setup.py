@@ -20,9 +20,9 @@ def get_dependencies():
 setup(
     name='ppy-jsonyml',
     version='0.0.2',
-    url='https://github.com/problemfighter/ppy-jsonyml',
+    url='https://github.com/banglafighter/ppy-jsonyml',
     license='Apache 2.0',
-    author='Problem Fighter',
+    author='Bangla Fighter',
     author_email='problemfighter.com@gmail.com',
     description='PWeb Python JSON & YAML is a library which help to serialize and deserialize Object as well as help to load configuration',
     long_description=README,
