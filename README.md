@@ -8,7 +8,7 @@
 ## Documentation
 Install and update using [pip](https://pip.pypa.io/en/stable/getting-started/):
 ```bash
-pip install -U PPyJsonYML
+pip install -U ppy-jsonyml
 ```
 
 **Please find [the Documentation]() with example from [hmtmcse.com]()**
